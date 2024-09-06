@@ -1,4 +1,4 @@
-央视频道,#genre# 
+央视频道,#genre#
 CCTV1,http://39.134.144.6:8089/PLTV/88888888/224/3221225859/index.m3u8
 CCTV1,http://39.134.65.179/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.181/PLTV/88888888/224/3221225816/1.m3u8
@@ -264,7 +264,7 @@ CETV4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////C
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 
-卫视频道,#genre# 
+卫视频道,#genre#
 安徽卫视,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000328/index.m3u8
 安徽卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225775/index.m3u8
 安徽卫视,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
@@ -659,7 +659,7 @@ CETV4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////C
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 山东教育,http://39.134.65.82:80/wh7f454c46tw1844698110_-42250108/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&RTS=1554599617&from=1&hms_devid=137
 山东教育,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-山东地方,#genre# 
+山东地方,#genre#
 山东卫视,http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
 山东卫视,http://39.136.48.99:8089/PLTV/88888888/224/3221226144/index.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
@@ -984,7 +984,7 @@ CETV4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////C
 淄博文旅,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000293/index.m3u8
 济南少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221225979/index.m3u8
 济南少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8
-省地方频道,#genre# 
+省地方频道,#genre#
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州公共频道,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 宿州科教频道,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
@@ -1831,12 +1831,12 @@ CETV4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////C
 卡拉玛依影视,http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
 卢氏综合,http://tvpull.dxhmt.cn/tv/11224-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
-福建 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
-韩国 대전방송SBS 大田广播,http://1.245.74.5:1935/live/tv/.m3u8
+福建漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
+韩国대전방송SBS大田广播,http://1.245.74.5:1935/live/tv/.m3u8
 兴海县广播电视台,https://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
-韩国KBC 광주방송(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-越南同奈省Đồng Nai 1 (360p) [Not 24/7],http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-越南同奈省Đồng Nai 2 (576p) [Not 24/7],http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+韩国KBC광주방송(SBS光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+越南同奈省ĐồngNai1(360p)[Not24/7],http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+越南同奈省ĐồngNai2(576p)[Not24/7],http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 大厂一套,http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
 临西一套,https://jwcdnqx.hebyun.com.cn/live/lx1/1500k/tzwj_video.m3u8
@@ -1897,7 +1897,7 @@ CETV4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////C
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
-港澳频道,#genre# 
+港澳频道,#genre#
 凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
 凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
@@ -1907,8 +1907,8 @@ CETV4,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////C
 凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+GoodTV经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+GoodTV真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
@@ -1941,14 +1941,14 @@ TVB娱乐新闻,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b8964459
 华丽翡翠台,https://epg.pw/stream/ed3cb928cc3a187bd6456c7562f0f0a99c08f065b5177134aee9931518cc61f5.ctv
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 莲花卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-美国FOX News Now ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+美国FOXNewsNow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 台視HD,rtmp://f13h.mine.nu/sat/tv071
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 天映经典台,https://epg.pw/stream/ba7e70ae3a3343465a3a47ba8af6a94626987d818346b9329d5eb5abb46b01b1.ctv
 天映频道台,https://epg.pw/stream/6ce6153c50095866e921e3584843aa8086ed10a8911a1793d641b281541db5c6.ctv
-唯心電視 (480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+唯心電視(480p),http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线经典台,https://epg.pw/stream/88ee4b87004cdda8d42ab7ae30ccefe560f7929bae745d45eaf3ea2979dab62a.ctv
@@ -1970,57 +1970,57 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 
 NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+TaiwanPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 RBC,http://92.50.128.180/utv/1358/index.m3u8
 IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 MBC,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
 SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBSWorld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
 DISNEYXD,https://epg.pw/stream/82085f2a0ad1fd0970e43c12a7a896d5c67aa274a40a4a8b003c4ff4ce253017.ctv
 disneychannel,https://epg.pw/stream/07a4bd54d78ef7a199ec70aadf9614fea57c33771b173fca456d61f26f73a8b4.m3u8
 disneychannel,https://epg.pw/stream/20bef4018a3469d2ccd30f26ea4335f42ea3f237c95273510de80df17d7372ff.m3u8
 disneyjunior,https://epg.pw/stream/5a879da1dbc4b07b3538ba107b0d78535715770d3fc16d64345f3a340d84aa7a.m3u8
-泰国ASTV News 1 ,http://news1.live14.com/stream/news1.m3u8
-CNBC Indonesia 1,http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
-儿童·Brat TV ,https://brat-samsung-us.amagi.tv/playlist.m3u8
-儿童弗利克斯KidsFlix ,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-烹饪Tastemade en Español ,https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-Local Now ChopperTown ,https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
-Loupe Art ,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
-Z乌克兰扎波罗热 (Запорожье) ,https://stream.ztv.zp.ua/hls/live.m3u8
-乌克兰旅游BamBarBia TV,http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-塞尔维亚Muzzik AMVA 2020 (RS),https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-塞尔维亚Muzzik Cafe&Club Serbia ,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-塞尔维亚Muzzik HipHop Serbia ,https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-塞尔维亚Muzzik Jeka Serbia ,https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-塞尔维亚Muzzik Mediteraneo Serbia ,https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-塞尔维亚Muzzik OKK Serbia ,https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-塞尔维亚Muzzik Rock&Roll Serbia ,https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-塞尔维亚Muzzik TV Serbia ,https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-塞尔维亚Muzzik Worldwide Serbia ,https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-罗马尼亚布科维纳Bucovina TV,http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-德国阿尼克斯Anixe HD ,https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-荷兰RTV Drenthe ,https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-丹麦费恩岛TV2 Fyn,https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
-丹麦卡车TV2/Lorry ,https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
-意大利Euro Indie Music Chart TV ,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-墨西哥Alcarria TV ,http://217.182.77.27/live/alcarriatv-livestream.m3u8
-印度旁遮普5aab TV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-阿拉伯语沙特儿童生活Ajyal TV,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-土耳其语Al-Zahra TV Turkic,https://live.al-zahratv.com/live/playlist.m3u8
-NASA TV Media ,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-NASA TV Public ,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-NHK World Japan ,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+泰国ASTVNews1,http://news1.live14.com/stream/news1.m3u8
+CNBCIndonesia1,http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
+儿童·BratTV,https://brat-samsung-us.amagi.tv/playlist.m3u8
+儿童弗利克斯KidsFlix,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+烹饪TastemadeenEspañol,https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+LocalNowChopperTown,https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
+LoupeArt,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+Z乌克兰扎波罗热(Запорожье),https://stream.ztv.zp.ua/hls/live.m3u8
+乌克兰旅游BamBarBiaTV,http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+塞尔维亚MuzzikAMVA2020(RS),https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+塞尔维亚MuzzikCafe&ClubSerbia,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+塞尔维亚MuzzikHipHopSerbia,https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+塞尔维亚MuzzikJekaSerbia,https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+塞尔维亚MuzzikMediteraneoSerbia,https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+塞尔维亚MuzzikOKKSerbia,https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+塞尔维亚MuzzikRock&RollSerbia,https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+塞尔维亚MuzzikTVSerbia,https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+塞尔维亚MuzzikWorldwideSerbia,https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+罗马尼亚布科维纳BucovinaTV,http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+德国阿尼克斯AnixeHD,https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+荷兰RTVDrenthe,https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+丹麦费恩岛TV2Fyn,https://cdnapisec.kaltura.com/p/1966291/sp/1966291/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/flavorId/0_8g29e3jz/name/a.mp4/index.m3u8
+丹麦卡车TV2/Lorry,https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
+意大利EuroIndieMusicChartTV,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+墨西哥AlcarriaTV,http://217.182.77.27/live/alcarriatv-livestream.m3u8
+印度旁遮普5aabTV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+阿拉伯语沙特儿童生活AjyalTV,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+土耳其语Al-ZahraTVTurkic,https://live.al-zahratv.com/live/playlist.m3u8
+NASATVMedia,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+NASATVPublic,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+NHKWorldJapan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 韩国英语Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 俄罗斯新闻РБК,http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-俄罗斯国家频道·Страна FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+俄罗斯国家频道·СтранаFM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 俄罗斯世界电视台Мир,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-俄罗斯电视世界Мир 24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+俄罗斯电视世界Мир24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 法国BipTV,https://biptv.tv/live/biptvstream_orig/index.m3u8
 
-其他频道,#genre# 
+其他频道,#genre#
 重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典频道,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000635
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
